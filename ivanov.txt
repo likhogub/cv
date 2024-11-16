@@ -1,0 +1,19 @@
+ru
+Иванов Иван Иванович
+Оптимизация аппаратурных затрат в логических схемах устройств управления
+Компьютерные системы и сети
+
+en
+Ivan Ivanov
+Hardware optimization in logic circuits of control units
+Computer systems and networks
+
+fr
+Ivan Ivanov
+L'optimisation du materiel dans les circuits logiques des unites de controle
+Les systemes informatiques et des reseaux
+
+ge
+Ivan Iwanov
+Hardware-Optimierung in Logikschaltungen von Steuergeraten
+Computersysteme und Netzwerke
